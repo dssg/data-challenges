@@ -17,11 +17,11 @@ Help the City of Chicago's Retrofit Chicago initiative understand and improve th
 
 ####Data
 
-Energy Intentsity of Buildings by Block (Source: City of Chicago Data Portal)
+[Energy Intentsity of Buildings by Block](https://data.cityofchicago.org/Environment-Sustainable-Development/Energy-Usage-2010/8yq3-m6wp) (Source: City of Chicago Data Portal)
 Location of previous retrofits in the city (Source: Delta institute)
-Building footprints (Source: City of Chicago Data Portal)
-County Assessor's Data (Source: Depaul Institute of Housing Studies)
-Census Tract Demographic Information (Source: Census Reporter)
+[Building footprints](https://data.cityofchicago.org/Buildings/Building-Footprints/qv97-3bvb) (Source: City of Chicago Data Portal)
+[County Assessor's Data]() (Source: Depaul Institute of Housing Studies)
+[Census Tract Demographic](http://censusreporter.org/) Information (Source: Census Reporter)
 
 ####Tasks
 
