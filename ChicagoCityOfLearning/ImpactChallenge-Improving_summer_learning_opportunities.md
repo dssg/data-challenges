@@ -29,23 +29,31 @@ Understanding the disribution
 - Documentation: Upload cleaned data to Clean Data (or dat)
 - Visualization: Upload the dataset to fusion tables
 - Exploration: Load cleaned data into R or Python and generate summary statistics 
-- 
-- Use python or R to connect to the City's Open Data Portal & download locations of all public schools in the city
-- Load both datasets into a PostgreSQL database
-- Calculate the number of 
-- Calculate the average distance that a student attending a particular school would have to travel
-- Download
-- Create a visualization that shows
-- Generate a list of areas where the addition of a program could increase overall equality of opportunity
-- Develop alternative allocation of
+- Extraction: Use python or R to connect to the City's Open Data Portal & download locations of all public schools in the city
+- Storage: Load both datasets into a PostgreSQL database
+- Analysis: Calculate the number of programs within a 3 mile radius of each school.
+- AnalysisCalculate the average distance that a student attending a particular school would have to travel
+- Extraction: Download census tract-level data
+- Analysis: Explore the correlation between local demographics and program accessability
+- Visualizaation: Create a visualization that shows relationship between program counts and average distance traveled, area demographics
+- Proscription: Generate a list of areas where the addition of a program could increase overall equality of opportunity
+- Proscription: Develop alternative allocation of
 
 ####Tools Used
 - Open Refine
 - Google Fusion Tables
-- 
+- Python: Pandas
+- Python: statsmodels
+- Python: matplotlib
+- PostgreSQL
+- PostGIS
+
 
 ####Concepts
-- Connecting to an open data portal API
-
+- Connecting to an open data portal API (Basic)
+- Data cleaning (Basic)
+- Databases (Intermediate)
+- Geospatial analysis (Basic)
+- Simulation/Optimization
 
 
