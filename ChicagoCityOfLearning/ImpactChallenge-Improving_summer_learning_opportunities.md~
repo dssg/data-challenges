@@ -27,7 +27,7 @@ Understanding the disribution
 - Extraction: Download Summer Program Data from Figshare
 - Cleaning: Examine and clean the data of duplicates and exporting errors using Google Refine (data cleaning) 
 - Documentation: Upload cleaned data to Clean Data (or dat)
-- Visualization: Upload the dataset to fusion tables
+- Visualization: Upload the dataset to fusion tables (https://www.google.com/fusiontables/DataSource?docid=1beH1546qrZc_J6fd2ClC4uph7HzZUH66kvZ_wiqL)
 - Exploration: Load cleaned data into R or Python and generate summary statistics 
 - Extraction: Use python or R to connect to the City's Open Data Portal & download locations of all public schools in the city
 - Storage: Load both datasets into a PostgreSQL database
