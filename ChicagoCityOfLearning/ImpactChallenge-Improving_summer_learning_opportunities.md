@@ -4,7 +4,7 @@
 
 The City of Chicago last year piloted a major initiative called Chicago Summer of Learning aimed at helping school children and their parents better navigate summering learning opportunities and recieve credit for their summer achievements through Mozilla's Open Badging platform.
 
-Program administrators know have, for the first time, a comprehensive database of all summer learning opportunities in the city. They are interested in knowing whether the current distribution of activities provides equal access to children throughout the city.
+Program administrators now have, for the first time, a comprehensive database of all summer learning opportunities in the city. They are interested in knowing whether the current distribution of activities provides equal access to children throughout the city.
 
 ####Objectives
 
@@ -25,10 +25,10 @@ Help the City of Chicago understand and improve access to summer learning opport
 Understanding the disribution
 
 - Extraction: Download Summer Program Data from Figshare
-- Cleaning: Examine and clean the data of duplicates and exporting errors using Google Refine (data cleaning) 
+- Cleaning: Examine and clean the data of duplicates and exporting errors using Google Refine (data cleaning)
 - Documentation: Upload cleaned data to Clean Data (or dat) (https://docs.google.com/spreadsheets/d/1sKuGhXyAQk2iQHqqA8ZV5GWqOOPnPivRBJjmLWMIn1o/edit?usp=sharing)
 - Visualization: Upload the dataset to fusion tables ( https://www.google.com/fusiontables/DataSource?docid=1beH1546qrZc_J6fd2ClC4uph7HzZUH66kvZ_wiqL )
-- Exploration: Load cleaned data into R or Python and generate summary statistics 
+- Exploration: Load cleaned data into R or Python and generate summary statistics
 - Extraction: Use python or R to connect to the City's Open Data Portal & download locations of all public schools in the city
 - Storage: Load both datasets into a PostgreSQL database
 - Analysis: Calculate the number of programs within a 3 mile radius of each school.
