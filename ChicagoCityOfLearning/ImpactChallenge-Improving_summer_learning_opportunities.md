@@ -16,7 +16,7 @@ Help the City of Chicago understand and improve access to summer learning opport
 ####Data Sources
 
 - [Location of Summer Learning Programs](http://files.figshare.com/1515450/schedule_program_export.csv) (Source: Digital Media and Learning Lab at Depaul)
-- [Location of Schools](https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Locations/fpnr-72q8?category=Education&view_name=Chicago-Public-Schools-School-Locations) (Source: Chicago's Data Portal)
+- [Location of Schools]( https://data.cityofchicago.org/Education/CPS-Schools-2013-2014-Academic-Year/c7jj-qjvh) (Source: Chicago's Data Portal)
 - [Demographic information by Census Tract](http://censusreporter.org/) (Source: Census Reporter)
 
 
