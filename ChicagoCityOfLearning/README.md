@@ -2,16 +2,16 @@
 
 ###Project Description
 
-The City of Chicago last year piloted a major initiative called Chicago Summer of Learning aimed at helping school children and their parents better navigate summering learning opportunities and recieve credit for their summer achievements through Mozilla's Open Badging platform.
+The City of Chicago last year piloted a major initiative called Chicago Summer of Learning aimed at helping school children and their parents better navigate summering learning opportunities, and receive credit for their summer achievements through Mozilla's Open Badging platform.
 
-Program administrators now have, for the first time, a comprehensive database of all summer learning opportunities in the city. They are interested in knowing whether the current distribution of activities provides equal access to children throughout the city.
+For the first time, program administrators have a comprehensive database of all summer learning opportunities in the city. They are interested in knowing whether the current distribution of activities provides equal access to children throughout the city.
 
 ####Objectives
 
 Help the City of Chicago understand and improve access to summer learning opportunities by:
 
-- Describe current distibution of summer learning opportunities and their overall accesability
-- Proscribe potential areas for changing grant incentives to focus on certain types of programs in certain areas to increase equality of access across the city
+- Describing current distibution of summer learning opportunities and their overall accesability
+- Prescribing potential areas for changing grant incentives to focus on certain types of programs to increase equality of access across the city
 
 ####Data Sources
 
@@ -22,7 +22,7 @@ Help the City of Chicago understand and improve access to summer learning opport
 
 ####Tasks
 
-Understanding the disribution
+Understanding the distribution
 
 - Extraction: Download Summer Program Data from Figshare
 - Cleaning: Examine and clean the data of duplicates and exporting errors using Google Refine (data cleaning)
