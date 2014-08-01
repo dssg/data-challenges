@@ -33,7 +33,7 @@ Help the City of Chicago understand and improve access to summer learning opport
 - AnalysisCalculate the average distance that a student attending a particular school would have to travel
 - Extraction: Download census tract-level data
 - Analysis: Explore the correlation between local demographics and program accessability
-- Visualizaation: Create a visualization that shows relationship between program counts and average distance traveled, area demographics
+- Visualization: Create a visualization that shows relationship between program counts and average distance traveled, area demographics
 - Proscription: Generate a list of areas where the addition of a program could increase overall equality of opportunity
 - Proscription: Develop alternative allocation of summer programs that would be more equitable and minimize travel time for students from all schools
 
