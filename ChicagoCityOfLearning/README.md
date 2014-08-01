@@ -17,12 +17,10 @@ Help the City of Chicago understand and improve access to summer learning opport
 
 - [Location of Summer Learning Programs](http://files.figshare.com/1515450/schedule_program_export.csv) (Source: Digital Media and Learning Lab at Depaul)
 - [Location of Schools]( https://data.cityofchicago.org/Education/CPS-Schools-2013-2014-Academic-Year/c7jj-qjvh) (Source: Chicago's Data Portal)
-- [Demographic information by Census Tract](http://censusreporter.org/) (Source: Census Reporter)
-
+- [Demographic information by Census Tract](https://raw.githubusercontent.com/dssg/data-challenges/master/ChicagoCityOfLearning/data/chicago_acs.geojson) (Source: American FactFinder)
+- [Location of Summer Learning Programs - Cleaned Version](https://github.com/dssg/data-challenges/raw/master/ChicagoCityOfLearning/data_clean/schedule_program_export.xls) (Source: Digital Media and Learning Lab at Depaul)
 
 ####Tasks
-
-Understanding the distribution
 
 - Extraction: Download Summer Program Data from Figshare
 - Cleaning: Examine and clean the data of duplicates and exporting errors using Google Refine (data cleaning)
@@ -31,13 +29,13 @@ Understanding the distribution
 - Exploration: Load cleaned data into R or Python and generate summary statistics
 - Extraction: Use python or R to connect to the City's Open Data Portal & download locations of all public schools in the city
 - Storage: Load both datasets into a PostgreSQL database
-- Analysis: Calculate the number of programs within a 3 mile radius of each school.
+- Analysis: Calculate the number of programs within a 1 mile radius of each school.
 - AnalysisCalculate the average distance that a student attending a particular school would have to travel
 - Extraction: Download census tract-level data
 - Analysis: Explore the correlation between local demographics and program accessability
 - Visualizaation: Create a visualization that shows relationship between program counts and average distance traveled, area demographics
 - Proscription: Generate a list of areas where the addition of a program could increase overall equality of opportunity
-- Proscription: Develop alternative allocation of
+- Proscription: Develop alternative allocation of summer programs that would be more equitable and minimize travel time for students from all schools
 
 ####Tools Used
 - Open Refine
@@ -54,6 +52,6 @@ Understanding the distribution
 - Data cleaning (Basic)
 - Databases (Intermediate)
 - Geospatial analysis (Basic)
-- Simulation/Optimization
+- Simulation/Optimization (Advanced)
 
 
