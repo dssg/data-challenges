@@ -1,4 +1,4 @@
-!(http://www.orlando-home-inspection-services.com/images/inspector-gadget.jpg)
+![Project Inspector Gadget](http://www.orlando-home-inspection-services.com/images/inspector-gadget.jpg)
 
 #Project Inspector Gadget: Targeted Building Inspections for the City of Chicago
 
